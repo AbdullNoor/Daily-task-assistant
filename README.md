@@ -1,5 +1,5 @@
 # Daily-task-assistant
-This repository contains simple codes to carry out minor day-to-day tasks (in python).
+#This repository contains simple codes to carry out minor day-to-day tasks (in python).
 
 #ACTUAL CODE BEGINS HERE ON!!!!!!!
 #Executable (Error-free) python program for while-exam countdown
